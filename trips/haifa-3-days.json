@@ -1,0 +1,375 @@
+{
+  "formatVersion": "2.0",
+  "iconSetVersion": "1.0",
+  "revision": 1,
+  "uid": "33166070-9e72-45fd-8641-45c2bc5a8d63",
+  "id": "haifa-3-days",
+  "title": "Haifa in 3 Days",
+  "subtitle": "Museums, nature, sea, and food",
+  "timezone": "Asia/Jerusalem",
+  "copyright": "© 2026 The Trip Map authors",
+  "license": "CC-BY-4.0",
+  "credits": [
+    "The Trip Map authors"
+  ],
+  "start": {
+    "lat": 32.81,
+    "lng": 34.985,
+    "zoom": 13
+  },
+  "sites": [
+    {
+      "id": "leonardo-plaza",
+      "name": "Leonardo Plaza Haifa",
+      "lat": 32.795,
+      "lng": 34.955,
+      "icon": "home",
+      "address": "10 David Elazar St, Haifa",
+      "desc": "The hotel, on the beach. Location approximate, as in every public trip.",
+      "url": "https://www.leonardo-hotels.com/leonardo-hotel-haifa",
+      "verified": false
+    },
+    {
+      "id": "cafe-masada",
+      "name": "Café Masada",
+      "lat": 32.8085,
+      "lng": 34.9895,
+      "icon": "breakfast",
+      "address": "Masada St, Haifa",
+      "desc": "Neighbourhood café on Masada Street, good for a relaxed breakfast.",
+      "url": "",
+      "verified": false
+    },
+    {
+      "id": "bahai-upper",
+      "name": "Bahá'í Gardens, upper terraces",
+      "lat": 32.81222,
+      "lng": 34.98639,
+      "icon": "park",
+      "address": "Yefe Nof St, Haifa",
+      "desc": "Terraced gardens with the classic view down to the shrine and the port. Closed on Bahá'í holy days and Yom Kippur.",
+      "url": "https://ganbahai.org.il/visit-us-haifa/",
+      "verified": false,
+      "hours": {
+        "sun": "09:00-17:00",
+        "mon": "09:00-17:00",
+        "tue": "09:00-17:00",
+        "wed": "09:00-17:00",
+        "thu": "09:00-17:00",
+        "fri": "09:00-17:00",
+        "sat": "09:00-17:00"
+      }
+    },
+    {
+      "id": "louis-promenade",
+      "name": "Louis Promenade",
+      "lat": 32.8128,
+      "lng": 34.987,
+      "icon": "viewpoint",
+      "address": "Yefe Nof St, Haifa",
+      "desc": "A short walk along the edge of the Carmel with views over the whole bay.",
+      "url": "",
+      "verified": false,
+      "hours": "always"
+    },
+    {
+      "id": "tikotin",
+      "name": "Tikotin Museum of Japanese Art",
+      "lat": 32.80935,
+      "lng": 34.98538,
+      "icon": "museum",
+      "address": "89 HaNassi Ave, Haifa",
+      "desc": "Small museum of Japanese art; exhibitions change often.",
+      "url": "https://www.hms.org.il/eng/Activity_Time",
+      "verified": false
+    },
+    {
+      "id": "hummus-elsham",
+      "name": "Hummus ElSham",
+      "lat": 32.816,
+      "lng": 34.9945,
+      "icon": "lunch",
+      "address": "Wadi St 21, Haifa",
+      "desc": "Hummus and fatteh in the Wadi Nisnas market.",
+      "url": "",
+      "verified": false
+    },
+    {
+      "id": "german-colony",
+      "name": "Wadi Nisnas and the German Colony",
+      "lat": 32.82216,
+      "lng": 34.99215,
+      "icon": "architecture",
+      "address": "Ben Gurion Blvd, Haifa",
+      "desc": "Walk from the market alleys of Wadi Nisnas to the Templer houses of Ben Gurion Boulevard.",
+      "url": "",
+      "verified": false,
+      "hours": "always"
+    },
+    {
+      "id": "fattoush",
+      "name": "Fattoush",
+      "lat": 32.82,
+      "lng": 34.99,
+      "icon": "dinner",
+      "address": "38 Ben Gurion Blvd, Haifa",
+      "desc": "Arab cuisine in an old stone house with a garden, below the Bahá'í Gardens.",
+      "url": "https://www.fattoush.co.il/",
+      "verified": false
+    },
+    {
+      "id": "cable-car",
+      "name": "Bat Galim cable car",
+      "lat": 32.83139,
+      "lng": 34.97028,
+      "icon": "ski-lift",
+      "address": "Bat Galim promenade, Haifa",
+      "desc": "Short cable car ride from the Bat Galim seafront up to Stella Maris.",
+      "url": "",
+      "verified": false
+    },
+    {
+      "id": "stella-maris",
+      "name": "Stella Maris lookout and monastery",
+      "lat": 32.82667,
+      "lng": 34.97028,
+      "icon": "holy-place",
+      "address": "Stella Maris Rd, Haifa",
+      "desc": "Carmelite monastery at the tip of the Carmel, with a lookout over the bay. Modest dress inside.",
+      "url": "",
+      "verified": false
+    },
+    {
+      "id": "bat-galim",
+      "name": "Bat Galim promenade and beach",
+      "lat": 32.833,
+      "lng": 34.979,
+      "icon": "promenade",
+      "address": "Bat Galim, Haifa",
+      "desc": "Seafront promenade and surfers' beach at the foot of the Carmel.",
+      "url": "",
+      "verified": false,
+      "hours": "always"
+    },
+    {
+      "id": "maritime-museum",
+      "name": "National Maritime Museum",
+      "lat": 32.82894,
+      "lng": 34.9723,
+      "icon": "museum",
+      "address": "198 Allenby Rd, Haifa",
+      "desc": "Ships, navigation, and sea trade in the Mediterranean, over three floors.",
+      "url": "https://www.hms.org.il/eng/Activity_Time",
+      "verified": false
+    },
+    {
+      "id": "kadarim",
+      "name": "Kadarim",
+      "lat": 32.796,
+      "lng": 34.955,
+      "icon": "lunch",
+      "address": "Hof Zamir, Haifa",
+      "desc": "Beachside restaurant at Hof Zamir, close to the hotel.",
+      "url": "",
+      "verified": false
+    },
+    {
+      "id": "dado-zamir",
+      "name": "Dado Zamir beach",
+      "lat": 32.7965,
+      "lng": 34.9545,
+      "icon": "beach",
+      "address": "Dado Zamir beach, Haifa",
+      "desc": "Long sandy beach with a promenade, next to the hotel.",
+      "url": "",
+      "verified": false,
+      "hours": "always"
+    },
+    {
+      "id": "hanamal-24",
+      "name": "Hanamal 24",
+      "lat": 32.819,
+      "lng": 34.9985,
+      "icon": "dinner",
+      "address": "24 Hanamal St, Haifa",
+      "desc": "Well-known restaurant in the old port area, meat and seafood. Book ahead.",
+      "url": "",
+      "verified": false
+    },
+    {
+      "id": "cafe-strudel",
+      "name": "Café Strudel",
+      "lat": 32.821,
+      "lng": 34.991,
+      "icon": "breakfast",
+      "address": "German Colony, Haifa",
+      "desc": "Café in the German Colony with breakfast and lunch menus.",
+      "url": "",
+      "verified": false
+    },
+    {
+      "id": "hecht-eshkol",
+      "name": "Hecht Museum and Eshkol Tower",
+      "lat": 32.76348,
+      "lng": 35.01798,
+      "icon": "museum",
+      "address": "199 Abba Khoushy Ave, Haifa",
+      "desc": "Free archaeology and art museum at the University of Haifa, under the Eshkol Tower, whose top floor has a wide view.",
+      "url": "",
+      "verified": false
+    },
+    {
+      "id": "nesher-park",
+      "name": "Nesher Park hanging bridges",
+      "lat": 32.76694,
+      "lng": 35.02611,
+      "icon": "park",
+      "address": "HaHaruv St, Nesher",
+      "desc": "Forest park with two swaying bridges over the Katia stream; the loop takes 1 to 1½ hours.",
+      "url": "",
+      "verified": false,
+      "hours": "always"
+    },
+    {
+      "id": "mina-tomei",
+      "name": "Mina Tomei",
+      "lat": 32.79,
+      "lng": 34.96,
+      "icon": "lunch",
+      "address": "8 Flieman St, Castra Center, Haifa",
+      "desc": "Restaurant in the Castra Center; opens at noon.",
+      "url": "",
+      "verified": false
+    },
+    {
+      "id": "little-switzerland",
+      "name": "Little Switzerland, Carmel National Park",
+      "lat": 32.737,
+      "lng": 35.03,
+      "icon": "park",
+      "address": "Carmel National Park",
+      "desc": "Trails and lookouts along the Kelah stream in the Carmel forest.",
+      "url": "",
+      "verified": false,
+      "hours": "always"
+    },
+    {
+      "id": "douzan",
+      "name": "Douzan",
+      "lat": 32.8195,
+      "lng": 34.9893,
+      "icon": "dinner",
+      "address": "Ben Gurion Blvd, Haifa",
+      "desc": "Family-run Arab-Christian restaurant in the German Colony.",
+      "url": "",
+      "verified": false
+    }
+  ],
+  "legends": [
+    {
+      "id": "day",
+      "name": "Day",
+      "groups": [
+        {
+          "id": "d1",
+          "name": "Day 1",
+          "color": "#E8590C",
+          "sites": [
+            "cafe-masada",
+            "bahai-upper",
+            "louis-promenade",
+            "tikotin",
+            "hummus-elsham",
+            "german-colony",
+            "fattoush"
+          ]
+        },
+        {
+          "id": "d2",
+          "name": "Day 2",
+          "color": "#1C7ED6",
+          "sites": [
+            "leonardo-plaza",
+            "cable-car",
+            "stella-maris",
+            "bat-galim",
+            "maritime-museum",
+            "kadarim",
+            "dado-zamir",
+            "hanamal-24"
+          ]
+        },
+        {
+          "id": "d3",
+          "name": "Day 3",
+          "color": "#2F9E44",
+          "sites": [
+            "cafe-strudel",
+            "hecht-eshkol",
+            "nesher-park",
+            "mina-tomei",
+            "little-switzerland",
+            "douzan"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kind",
+      "name": "Kind",
+      "groups": [
+        {
+          "id": "museums",
+          "name": "Museums",
+          "color": "#7F77DD",
+          "sites": [
+            "tikotin",
+            "maritime-museum",
+            "hecht-eshkol"
+          ]
+        },
+        {
+          "id": "nature",
+          "name": "Nature",
+          "color": "#2B8A3E",
+          "sites": [
+            "bahai-upper",
+            "nesher-park",
+            "little-switzerland"
+          ]
+        },
+        {
+          "id": "fun",
+          "name": "Fun: sea, parks, viewpoints",
+          "color": "#F08C00",
+          "sites": [
+            "bahai-upper",
+            "louis-promenade",
+            "german-colony",
+            "cable-car",
+            "stella-maris",
+            "bat-galim",
+            "dado-zamir",
+            "hecht-eshkol"
+          ]
+        },
+        {
+          "id": "food",
+          "name": "Restaurants",
+          "color": "#C2255C",
+          "sites": [
+            "cafe-masada",
+            "hummus-elsham",
+            "fattoush",
+            "leonardo-plaza",
+            "kadarim",
+            "hanamal-24",
+            "cafe-strudel",
+            "mina-tomei",
+            "douzan"
+          ]
+        }
+      ]
+    }
+  ]
+}
