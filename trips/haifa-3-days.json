@@ -263,6 +263,83 @@
       "desc": "Family-run Arab-Christian restaurant in the German Colony.",
       "url": "",
       "verified": false
+    },
+    {
+      "id": "rail-hof-hacarmel",
+      "name": "Haifa Hof HaCarmel railway station",
+      "lat": 32.79347,
+      "lng": 34.95733,
+      "icon": "railway",
+      "address": "Sakharov St, Haifa",
+      "desc": "The station closest to the hotel, next to the main bus station; trains along the coast and to Ben Gurion Airport.",
+      "url": "https://www.rail.co.il/stations/haifa-hof-hakarmel-(razi-el)",
+      "verified": false
+    },
+    {
+      "id": "rail-bat-galim",
+      "name": "Haifa Bat Galim railway station",
+      "lat": 32.8295,
+      "lng": 34.9855,
+      "icon": "railway",
+      "address": "HaHagana Ave, Haifa",
+      "desc": "Station at the south edge of Bat Galim, a short walk from the cable car and the seafront.",
+      "url": "",
+      "verified": false
+    },
+    {
+      "id": "rail-hashmona",
+      "name": "Haifa Center HaShmona railway station",
+      "lat": 32.8205,
+      "lng": 35.0035,
+      "icon": "railway",
+      "address": "67 Haatzmaut St, Haifa",
+      "desc": "Downtown station next to the port's passenger terminal.",
+      "url": "https://www.rail.co.il/HE/Stations/Pages/2100.aspx",
+      "verified": false
+    },
+    {
+      "id": "haifa-port",
+      "name": "Haifa Port passenger terminal",
+      "lat": 32.82012,
+      "lng": 35.00448,
+      "icon": "ferry",
+      "address": "Haifa Port, Haifa",
+      "desc": "Terminal for cruise and ferry passengers, next to HaShmona station.",
+      "url": "",
+      "verified": false
+    },
+    {
+      "id": "haifa-airport",
+      "name": "Haifa Airport",
+      "lat": 32.8094,
+      "lng": 35.0431,
+      "icon": "airport",
+      "address": "Haifa Airport, Haifa",
+      "desc": "Small airport east of the port, for domestic and short regional flights.",
+      "url": "",
+      "verified": false
+    },
+    {
+      "id": "taxi-hof-hacarmel",
+      "name": "Taxis at Hof HaCarmel station",
+      "lat": 32.79364,
+      "lng": 34.95944,
+      "icon": "bus",
+      "address": "Sakharov St, Haifa",
+      "desc": "Taxis wait at the main bus and train station, a short ride from the hotel.",
+      "url": "",
+      "verified": false
+    },
+    {
+      "id": "taxi-hotel",
+      "name": "Taxis at the hotel entrance",
+      "lat": 32.7955,
+      "lng": 34.9555,
+      "icon": "bus",
+      "address": "10 David Elazar St, Haifa",
+      "desc": "Taxis can be called to, or found at, the hotel's main entrance.",
+      "url": "",
+      "verified": false
     }
   ],
   "legends": [
@@ -367,6 +444,20 @@
             "cafe-strudel",
             "mina-tomei",
             "douzan"
+          ]
+        },
+        {
+          "id": "transport",
+          "name": "Transportation",
+          "color": "#495057",
+          "sites": [
+            "rail-hof-hacarmel",
+            "rail-bat-galim",
+            "rail-hashmona",
+            "haifa-port",
+            "haifa-airport",
+            "taxi-hof-hacarmel",
+            "taxi-hotel"
           ]
         }
       ]
