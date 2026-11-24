@@ -1,0 +1,202 @@
+{
+  "formatVersion": "2.0",
+  "iconSetVersion": "1.0",
+  "revision": 1,
+  "uid": "06a6f047-020b-4caa-a548-c918b5dab743",
+  "id": "caesarea-2-days",
+  "title": "Caesarea in 2 Days",
+  "subtitle": "Herod's city, nature, golf, and the shore",
+  "timezone": "Asia/Jerusalem",
+  "copyright": "© 2026 The Trip Map authors",
+  "license": "CC-BY-4.0",
+  "credits": [
+    "The Trip Map authors"
+  ],
+  "start": {
+    "lat": 32.505,
+    "lng": 34.905,
+    "zoom": 13
+  },
+  "sites": [
+    {
+      "id": "dan-caesarea",
+      "name": "Dan Caesarea Resort",
+      "lat": 32.495,
+      "lng": 34.912,
+      "icon": "home",
+      "address": "1 Rothschild Ave, Caesarea",
+      "desc": "The hotel, next to the golf club. Location approximate, as in every public trip.",
+      "url": "https://www.danhotels.com/CaesareaHotels/DanCaesareaHotel",
+      "verified": false
+    },
+    {
+      "id": "harbour-north",
+      "name": "Herodian harbour, north entrance",
+      "lat": 32.5015,
+      "lng": 34.8915,
+      "icon": "history",
+      "address": "Caesarea National Park",
+      "desc": "Enter through the Crusader gate to Herod's harbour and the Crusader city. Winter hours; last entry an hour before closing.",
+      "url": "https://www.parks.org.il/en/reserve-park/caesarea-national-park/",
+      "verified": false,
+      "hours": {
+        "sun": "08:00-16:00",
+        "mon": "08:00-16:00",
+        "tue": "08:00-16:00",
+        "wed": "08:00-16:00",
+        "thu": "08:00-16:00",
+        "fri": "08:00-15:00",
+        "sat": "08:00-16:00"
+      }
+    },
+    {
+      "id": "theatre-south",
+      "name": "Roman theatre, south entrance",
+      "lat": 32.496,
+      "lng": 34.8905,
+      "icon": "history",
+      "address": "Caesarea National Park",
+      "desc": "The Roman theatre, Herod's palace by the sea, and the hippodrome, about 600 m south of the harbour.",
+      "url": "https://www.parks.org.il/en/reserve-park/caesarea-national-park/",
+      "verified": false,
+      "hours": {
+        "sun": "08:00-16:00",
+        "mon": "08:00-16:00",
+        "tue": "08:00-16:00",
+        "wed": "08:00-16:00",
+        "thu": "08:00-16:00",
+        "fri": "08:00-15:00",
+        "sat": "08:00-16:00"
+      }
+    },
+    {
+      "id": "concert",
+      "name": "Live concert at the Caesarea theatre",
+      "lat": 32.4958,
+      "lng": 34.8903,
+      "icon": "music",
+      "address": "Caesarea National Park",
+      "desc": "Tonight's concert in the ancient theatre. Check the ticket for the time and the entrance.",
+      "url": "",
+      "verified": false
+    },
+    {
+      "id": "nahal-taninim",
+      "name": "Nahal Taninim Nature Reserve",
+      "lat": 32.524,
+      "lng": 34.902,
+      "icon": "park",
+      "address": "Nahal Taninim, near Jisr az-Zarqa",
+      "desc": "Clean coastal stream with a Roman dam, aqueducts, and restored water mills, next to Jisr az-Zarqa.",
+      "url": "",
+      "verified": false
+    },
+    {
+      "id": "golf-club",
+      "name": "Caesarea Golf Club",
+      "lat": 32.4975,
+      "lng": 34.912,
+      "icon": "stadium",
+      "address": "Caesarea",
+      "desc": "Israel's only 18-hole course, a short walk from the hotel. Book a tee time.",
+      "url": "",
+      "verified": false
+    },
+    {
+      "id": "business-park",
+      "name": "Caesarea Business Park",
+      "lat": 32.47,
+      "lng": 34.93,
+      "icon": "architecture",
+      "address": "Caesarea Business Park",
+      "desc": "One of Israel's largest high-tech and industrial parks, best seen on a drive through.",
+      "url": "",
+      "verified": false
+    },
+    {
+      "id": "aqueduct-beach",
+      "name": "Aqueduct Beach",
+      "lat": 32.513269,
+      "lng": 34.8968312,
+      "icon": "beach",
+      "address": "Aqueduct Beach, Caesarea",
+      "desc": "Herod's raised aqueduct runs along the sand; good for a walk and the sunset.",
+      "url": "",
+      "verified": false,
+      "hours": "always"
+    }
+  ],
+  "legends": [
+    {
+      "id": "day",
+      "name": "Day",
+      "groups": [
+        {
+          "id": "d1",
+          "name": "Day 1",
+          "color": "#E8590C",
+          "sites": [
+            "harbour-north",
+            "theatre-south",
+            "nahal-taninim",
+            "concert"
+          ]
+        },
+        {
+          "id": "d2",
+          "name": "Day 2",
+          "color": "#1C7ED6",
+          "sites": [
+            "dan-caesarea",
+            "golf-club",
+            "business-park",
+            "aqueduct-beach"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kind",
+      "name": "Kind",
+      "groups": [
+        {
+          "id": "historical",
+          "name": "Historical",
+          "color": "#7F77DD",
+          "sites": [
+            "harbour-north",
+            "theatre-south",
+            "concert",
+            "nahal-taninim",
+            "aqueduct-beach"
+          ]
+        },
+        {
+          "id": "natural",
+          "name": "Natural",
+          "color": "#2B8A3E",
+          "sites": [
+            "nahal-taninim",
+            "aqueduct-beach"
+          ]
+        },
+        {
+          "id": "sports",
+          "name": "Sports",
+          "color": "#F08C00",
+          "sites": [
+            "golf-club"
+          ]
+        },
+        {
+          "id": "industrial",
+          "name": "Industrial",
+          "color": "#495057",
+          "sites": [
+            "business-park"
+          ]
+        }
+      ]
+    }
+  ]
+}
